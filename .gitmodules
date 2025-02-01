@@ -1,6 +1,6 @@
 [submodule "E3SM"]
 	path = E3SM
-    url = https://github.com/NVlabs/E3SM.git
+        url = https://github.com/E3SM-Project/E3SM.git
 [submodule "pytorch-fortran"]
 	path = pytorch-fortran
 	url = https://github.com/alexeedm/pytorch-fortran.git
